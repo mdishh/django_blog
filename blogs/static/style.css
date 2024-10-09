@@ -1,0 +1,13 @@
+h1{
+    color: blue;
+}
+
+div.dabba{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    margin: 10px;
+    border: 2px solid black;
+    
+}
